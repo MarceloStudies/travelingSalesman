@@ -13,7 +13,6 @@ Para a aplicar o algoritmo do caixeiro viajante foi idealizado pela equipe um pr
 + Cada trem deve passar por todas as estações (pontos no mapa) existentes.
 + Dois trens não podem passar pelo mesmo trilho (caminho de um ponto a outro) ao mesmo tempo. 
 
-![Print](/templates/Captura de Tela 2023-05-28 às 10.53.12.png)
 
 ## Autores
 
