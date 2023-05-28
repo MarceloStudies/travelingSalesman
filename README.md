@@ -1,6 +1,8 @@
 
 # Algoritmo do Caixeiro Viajante
 
+Esse projeto buscar colocar em pratica todos os algoritimos e conceitos apresentados na matéria de programação linear.
+
 No *Algoritmo do Caixeiro Viajante* o objetivo é passar por todos os pontos de um determinado "mapa" criando a melhor rota.
 
 ## Escopo
@@ -13,6 +15,8 @@ Para a aplicar o algoritmo do caixeiro viajante foi idealizado pela equipe um pr
 
 ## Autores
 
-- [**Kaseioo**](https://github.com/Kaseioo)
+- [**Jean Cavalcante**](https://github.com/Kaseioo)
 - [**Leandro De Meirelles**](https://github.com/droanle)
 - [**Marcelo Gonçalves**](https://github.com/MarceloStudies)
+
+
